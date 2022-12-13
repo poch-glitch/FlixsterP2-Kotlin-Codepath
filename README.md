@@ -5,7 +5,7 @@ Submitted by: **Ivan Ibhawoh**
 
 **FlixsterExtended** is a movie browsing app that allows users to browse ... [TODO] 
 
-Time spent: **8.4** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
